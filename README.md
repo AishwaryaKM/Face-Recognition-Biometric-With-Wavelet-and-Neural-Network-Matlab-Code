@@ -16,14 +16,13 @@ http://matlab-recognition-code.com/face-recognition-based-on-wavelet-and-neural-
 - Easy and intuitive GUI
 
  For more informations please email me ( hamdouchhd@hotmail.com )
-
- Hamdi Boukamcha
- Sousse
- 4081
- Tunisia
- mobile +201650674269
- email hamdouchhd@hotmail.com
- website http://matlab-recognition-code.com
+Hamdi Boukamcha
+Sousse
+4081
+Tunisia
+mobile +201650674269
+email hamdouchhd@hotmail.com
+website http://matlab-recognition-code.com
 
 
 
